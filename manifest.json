@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Google Translate Anywhere",
+  "version": "0.0.0",
+  "author": "arschedev",
+  "description": "Google Translate Extension",
+  "homepage_url": "https://github.com/arschedev/GoogleTranslateAnywhere",
+  "icons": {
+    "96": "./icons/icon_browser.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_title": "Google Translate Anywhere",
+    "default_icon": "./icons/icon_browser.png"
+  },
+  "page_action": {
+    "default_title": "Google Translate Anywhere",
+    "default_icon": "./icons/icon_page.png"
+  },
+  "background": {
+    "scripts": [
+      "./background.js"
+    ]
+  }
+}
