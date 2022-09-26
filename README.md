@@ -3,7 +3,7 @@
 > 🚧 In development
 
 ## 📄 Manual installation 
-1. Make sure [NodeJS](https://nodejs.org) is installed
+1. Make sure [Node.js](https://nodejs.org) is installed
 2. Download repository
 3. Go to project root directory (with *manifest.json* file)
 4. Open Terminal or cmd
