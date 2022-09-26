@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2022 Arseniy Chereda, aka arschedev
+ * Copyright (c) 2022 arschedev
  */
 
 //! pageAction | Button

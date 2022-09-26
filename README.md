@@ -1,5 +1,5 @@
 # 🧩 Google Translate Anywhere
-###### Google Translate add-on for Mozilla Firefox
+###### 文 Google Translate add-on for Mozilla Firefox
 > 🚧 In development
 
 ## 📄 Manual installation 
@@ -9,8 +9,10 @@
 4. Open Terminal or cmd
 5. Run `npm install` to install dependencies
 6. Run `npm run dev`, a firefox browser window will open with preinstalled extension.  
-   (If an error occurrs, try running `npm run ig`, then run `npm run dev` again)
+   (If an error occurs, try running `npm run ig`, then run `npm run dev` again)  
 
-</br>
+<img alt="Extension" src="./icons/extension.png" width="370">
+
+<br>
 
 > Previously — [arschedev/AddGoogleTranslate](https://github.com/arschedev/AddGoogleTranslate)

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Google Translate Anywhere",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "arschedev",
   "description": "Google Translate Extension",
   "homepage_url": "https://github.com/arschedev/GoogleTranslateAnywhere",
