@@ -4,7 +4,7 @@
 
 ## 📄 Manual installation 
 1. Make sure [Node.js](https://nodejs.org) is installed
-2. Download repository
+2. [Download repository](https://github.com/arschedev/GoogleTranslateAnywhere/archive/refs/heads/main.zip)
 3. Go to project root directory (with *manifest.json* file)
 4. Open Terminal or cmd
 5. Run `npm install` to install dependencies
